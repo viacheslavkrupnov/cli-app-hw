@@ -1,0 +1,26 @@
+{
+  "name": "cli-app-hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viacheslavkrupnov/cli-app-hw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viacheslavkrupnov/cli-app-hw/issues"
+  },
+  "homepage": "https://github.com/viacheslavkrupnov/cli-app-hw#readme",
+  "dependencies": {
+    "nodemon": "^2.0.12",
+    "uuid": "^8.3.2",
+    "yargs": "^17.1.1"
+  }
+}
